@@ -1,0 +1,1019 @@
+{
+  "categories": [
+    {
+      "id": "2",
+      "name": "Women Fashion",
+      "description": "Clothing, footwear, and accessories",
+      "image_url": "https://oldnavyprod.a.bigcontent.io/v1/static/240501_25-M1190_W_DP_Sale_Hero%20jpg",
+      "subcategories": [
+        {
+          "id": 21,
+          "name": "Women Clothing",
+          "description": "Women's clothing and accessories",
+          "image_url": "https://www.bygoods.com/media/catalog/product/cache/1/image/800x/1dd3c1054c06760f44f47a9755af505d/4/5/4596604501_634590860.jpg"
+        },
+        {
+          "id": 22,
+          "name": "Women Bag",
+          "description": "Men's clothing and accessories",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoRy6MLRqzs1PjNPJqEZ7rjAj0MlR--aq0w&s"
+        },
+        {
+          "id": 23,
+          "name": "Women Shoe",
+          "description": "Men's clothing and accessories",
+          "image_url": "https://img.staticdj.com/db6b6b128990a6070c9092f9cb71328f.JPG"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Men Fashion",
+      "description": "Clothing, footwear, and accessories,sneaker",
+      "image_url": "https://johnlewis.scene7.com/is/image/JohnLewis/mens-brands_nav5_190324",
+      "subcategories": [
+        {
+          "id": 24,
+          "name": "Men Clothing",
+          "description": "Women's clothing and accessories",
+          "image_url": "https://media.very.co.uk/i/sd/ctmt-213-mens-dept-1?%24poi%24=&aspect=1%3A1&w=900&qlt=default&fmt=jpg&fmt.jpeg.interlaced=true"
+        },
+        {
+          "id": 25,
+          "name": "Men Shoe",
+          "description": "Men's clothing and accessories",
+          "image_url": "https://cdn-ejegf.nitrocdn.com/ptKzRmECffiRbAESDChJvypcTLFUXyUd/assets/images/optimized/rev-92315bb/runwaycatalog.in/wp-content/uploads/2021/01/3-2-595x595-compressed-330x330.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Baby Accessories & Kid Fashion",
+      "description": "Clothing, footwear, and accessories",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaK-NIi-RXIcg_sGZOVeN79fdGk4OICsxjXg&s",
+      "subcategories": [
+        {
+          "id": 26,
+          "name": "Kid Clothing",
+          "description": "Women's clothing and accessories",
+          "image_url": "https://img.freepik.com/premium-photo/child-kid-tshirt-template-with-yellow-green-red-orange-grey-tshirt-design-with-white-background_873925-155760.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Baby personal Care",
+          "description": "Men's clothing and accessories",
+          "image_url": "https://media.takealot.com/covers_tsins/63710531/63710531-1-zoom.jpeg"
+        },
+        {
+          "id": 28,
+          "name": "Feeding",
+          "description": "Men's clothing and accessories",
+          "image_url": "https://m.media-amazon.com/images/I/61BvAqE1H-L.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Home & Kitchen",
+      "description": "Home appliances, kitchenware, and furniture",
+      "image_url": "https://www.vassio.co.in/wp-content/uploads/2023/09/Evita-two-seater-dark-brown-colour-sofa-300x300.jpg",
+      "subcategories": [
+        {
+          "id": 31,
+          "name": "Furniture",
+          "description": "Furniture for home and office",
+          "image_url": "https://assets.wfcdn.com/im/29094649/resize-h755-w755%5Ecompr-r85/2813/281392791/Williams+Panel+Bed.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Appliances",
+          "description": "Home and kitchen appliances",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGG-Zj48r0YizF6wx6U5NX47h4svAmFmI3e-zBH5tlurenKviDYYPZpw5xqdlqIbc_ZuY&usqp=CAU"
+        },
+        {
+          "id": 33,
+          "name": "Decor",
+          "description": "Home decor items",
+          "image_url": "https://rukminim2.flixcart.com/image/850/1000/ky1vl3k0/wall-decoration/u/t/v/macrame-wall-hanging-shelf-wood-floating-1-onedeepwh012s-home-original-imagad6etqczrdst.jpeg?q=90&crop=false"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Books",
+      "description": "Books across various genres and categories",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AS2d58D2N5oZuKEegL0qUobsiYJ6twypaGvTOyoNly8fkforrKD6eoDJbyfxl2Hhqa8&usqp=CAU",
+      "subcategories": [
+        {
+          "id": 41,
+          "name": "Fiction",
+          "description": "Fictional books and novels",
+          "image_url": "https://images-na.ssl-images-amazon.com/images/I/91CdklZOKvL._AC_UL330_SR330,330_.jpg"
+        },
+        {
+          "id": 42,
+          "name": "Non-Fiction",
+          "description": "Non-fictional books and literature",
+          "image_url": "https://static1.squarespace.com/static/538c02b0e4b02af139f8d973/t/5760e14240261d1b7dfd4870/1465966920520/?format=1500w"
+        },
+        {
+          "id": 43,
+          "name": "Children's Books",
+          "description": "Books for children",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvs2FEWCrkloC3pGpZ8xCzJxDtjIkOjwaOw&s"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Sports & Outdoors",
+      "description": "Sports equipment, outdoor gear, and accessories",
+      "image_url": "https://www.onlinecollegeplan.com/wp-content/uploads/2023/08/Untitled-design-2023-08-14T152340.389-1024x1024.png",
+      "subcategories": [
+        {
+          "id": 51,
+          "name": "Sports Equipment",
+          "description": "Equipment for various sports",
+          "image_url": "https://i5.walmartimages.com/seo/Wilson-NFL-The-Duke-Official-Leather-Game-Football_c06eff5c-4127-45d7-9e8c-88ec5e450d51_1.c22c0d269e32f027a4765cfda5a5a950.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+        },
+        {
+          "id": 52,
+          "name": "Outdoor Gear",
+          "description": "Gear and accessories for outdoor activities",
+          "image_url": "https://cdn11.bigcommerce.com/s-q9ptxvukwz/images/stencil/original/products/14866/212127/la-police-gear-tactical-bail-out-gear-bag-best-seller-bailoutbag__67224.1609289475.jpg?c=2"
+        },
+        {
+          "id": 53,
+          "name": "Fitness",
+          "description": "Fitness equipment and accessories",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ5wZVTLfpXbt_hbz-biRYOpOnEFeib1TbvzLAVBiKYktPJn8Rx5NbHBCqkaaqr_dRfaU&usqp=CAU"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Beauty & Personal Care",
+      "description": "Skincare, makeup, and personal care products",
+      "image_url": "https://www.narscosmetics.eu/dw/image/v2/BCMQ_PRD/on/demandware.static/-/Sites-itemmaster_NARS/default/dw3e4c0cce/hi-res/B_SGF_10_M1_punjab_c2000x2000.jpg?sw=856&sh=750&sm=fit",
+      "subcategories": [
+        {
+          "id": 61,
+          "name": "Skincare",
+          "description": "Products for skincare routines",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBA4XXGqRO1ynPbfLrijHvhGlr3tvuITj3Sg&s"
+        },
+        {
+          "id": 62,
+          "name": "Makeup",
+          "description": "Cosmetics and makeup products",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIE11yVUUVPPUn7k7u2_groq2uFAH5UL0BtQ&s"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Toys & Games",
+      "description": "Toys, games, and hobbies",
+      "image_url": "https://cdn4.volusion.store/9nxdj-fchy5/v/vspfiles/photos/AR-01779-3.jpg?v-cache=1692098401",
+      "subcategories": [
+        {
+          "id": 81,
+          "name": "Action Figures",
+          "description": "Collectible action figures",
+          "image_url": "https://image.smythstoys.com/original/desktop/214147.jpg"
+        },
+        {
+          "id": 82,
+          "name": "Board Games",
+          "description": "Various board games",
+          "image_url": "https://i.ebayimg.com/images/g/WLIAAOSwDtJkyRDE/s-l1200.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Groceries",
+      "description": "Food, beverages, and household supplies",
+      "image_url": "https://anchorridge.org/wp-content/uploads/2020/05/Bag-Of-Groceries-1.png",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Beverages",
+          "description": "Various types of drinks",
+          "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/OX/FC/MP/73577147/stylish-transparent-glass-bottle-with-swing-top-cap-500ml-water-juices-milk-bottle-500x500.jpg"
+        },
+        {
+          "id": 102,
+          "name": "Snacks",
+          "description": "Assorted snacks and treats",
+          "image_url": "https://www.universalyums.com/wp-content/uploads/2023/05/Turkey-YY-Fanout.png"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Pet Supplies",
+      "description": "Products for pets and pet care",
+      "image_url": "https://www.cheerble.com/cdn/shop/files/7d25a1082bcaad9741b58590305f6e4a.jpg?v=1688034801&width=800",
+      "subcategories": [
+        {
+          "id": 111,
+          "name": "Pet Food",
+          "description": "Food for pets",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1VVUXFKQnrKIceCZClsuGAPxGFbh4eIUZiw&s"
+        },
+        {
+          "id": 112,
+          "name": "Pet Toys",
+          "description": "Toys for pets",
+          "image_url": "https://m.media-amazon.com/images/I/71ZpU6aRfjL.jpg"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Jewelry",
+      "description": "Jewelry and accessories",
+      "image_url": "https://kinclimg3.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIDG0319R180_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-66194.png",
+      "subcategories": [
+        {
+          "id": 121,
+          "name": "Necklaces",
+          "description": "",
+          "image_url": "https://chpremier.com/cdn/shop/products/sapphire-and-diamond-necklace-snnel00133-253266_1024x1024.jpg?v=1631865027"
+        },
+        {
+          "id": 122,
+          "name": "Rings",
+          "description": "Assorted rings",
+          "image_url": "https://th.pandora.net/dw/image/v2/BJRN_PRD/on/demandware.static/-/Sites-pandora-master-catalog/default/dwea663109/productimages/singlepackshot/168289C01_RGB.jpg?sw=900&sh=900&sm=fit&sfrm=png&bgcolor=F5F5F5"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Office Supplies",
+      "description": "Products for office use",
+      "image_url": "https://m.media-amazon.com/images/I/81K5l37CaGL.jpg",
+      "subcategories": [
+        {
+          "id": 131,
+          "name": "Stationery",
+          "description": "Various stationery items",
+          "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/4/VO/FV/UV/98975205/stationery-services-500x500.jpg"
+        },
+        {
+          "id": 132,
+          "name": "Office Furniture",
+          "description": "Furniture for office settings",
+          "image_url": "https://www.genesys-uk.com/wp-content/uploads/vega-wood-bench-desk1443-v2-500x500.png"
+        }
+      ]
+    },
+    {
+      "id": "de89",
+      "name": "Orange",
+      "description": "Orange is fruit",
+      "image_url": "data:image/jpeg;base64,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",
+      "subcategories": []
+    },
+    {
+      "id": "47fc",
+      "name": "Electronics",
+      "description": "Devices, gadgets, and accessories,laptop",
+      "image_url": "https://www.three.co.uk/content/dam/threedigital/new-dam-structure-temp/device-images/phones/apple/iphone-15-pro/popular-deals-tile-620px-iphone15-pro-natural-titanium.png",
+      "subcategories": []
+    },
+    {
+      "id": "e08d",
+      "name": "Apple",
+      "description": "Apple is fruit",
+      "image_url": "data:image/jpeg;base64,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",
+      "subcategories": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1001",
+      "name": "iPhone 15 Pro Max",
+      "description": "Latest Apple iPhone with advanced features.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 1000.99,
+      "brand": "Apple",
+      "category_id": 1,
+      "subcategory_id": 11,
+      "image_url": "https://www.gizchina.com/wp-content/uploads/images/2023/01/iphone-15-pro-max-2.jpg",
+      "colors": [
+        {
+          "name": "Purple",
+          "code": "#736ca0"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Silver",
+          "code": "#c0c0c0"
+        }
+      ]
+    },
+    {
+      "id": "1002",
+      "name": "MacBook Pro",
+      "description": "High performance laptop for professionals.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 1999.99,
+      "brand": "Apple",
+      "category_id": 1,
+      "subcategory_id": 12,
+      "image_url": "https://cdn.vox-cdn.com/thumbor/Dqu6WO-f2K-rqT0jMbPxkx_bzsA=/0x0:2040x1360/1000x1000/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25052490/236896_MacBook_Pro_14_and_16_M3_AKrales_0121.jpg",
+      "colors": [
+        {
+          "name": "Rose Gold",
+          "code": "#f4cccc"
+        },
+        {
+          "name": "Silver",
+          "code": "#c0c0c0"
+        }
+      ]
+    },
+    {
+      "id": "1003",
+      "name": "Canon EOS R5",
+      "description": "High resolution mirrorless camera.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 3899.99,
+      "brand": "Canon",
+      "category_id": 1,
+      "subcategory_id": 13,
+      "image_url": "https://amateurphotographer.com/wp-content/uploads/sites/7/2023/08/2023-Inductee-Canon-EOS-5D-Mark-IV-web.jpg",
+      "colors": [
+        {
+          "name": "White",
+          "code": "#ffffff"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        }
+      ]
+    },
+    {
+      "id": "2001",
+      "name": "Zara LINEN BLEND MIDI DRESS",
+      "description": "Comfortable and stylish summer dress.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 49.99,
+      "brand": "Zara",
+      "category_id": 2,
+      "subcategory_id": 21,
+      "image_url": "https://static.zara.net/assets/public/ff40/d4fa/1f464149abae/571fb075c0ac/03314354800-p/03314354800-p.jpg?ts=1714036549781&w=824",
+      "discount": 20,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "code": "#ffffff"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Red",
+          "code": "#ac0c06"
+        }
+      ]
+    },
+    {
+      "id": "2002",
+      "name": "Zara Floral Appliqué Crop Top",
+      "description": "Find many great new & used options and get the best deals for Zara Black Floral Appliqué Crop Top Tube Flower Strap Raised Rosette S #z at the best",
+      "price": 29.99,
+      "brand": "Zara",
+      "category_id": 2,
+      "subcategory_id": 21,
+      "image_url": "https://static.zara.net/assets/public/e9a5/8696/bbe34d5588fd/f0a6b8438865/02782031250-15-a1/02782031250-15-a1.jpg?ts=1710940267189",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "code": "#ffffff"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        }
+      ]
+    },
+    {
+      "id": "2003",
+      "name": "Zara LONG PRINTED SKIRT",
+      "description": "Find many great new & used options and get the best deals for Zara Black Floral Appliqué Crop Top Tube Flower Strap Raised Rosette S #z at the best",
+      "price": 37.99,
+      "brand": "Zara",
+      "category_id": 2,
+      "subcategory_id": 21,
+      "image_url": "https://static.zara.net/assets/public/0673/bc32/dd2a4f4381fc/04cc1f4ce1be/07261850330-p/07261850330-p.jpg?ts=1703672463514&w=824",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "code": "#ffffff"
+        },
+        {
+          "name": "Yellow",
+          "code": "#ffffba"
+        }
+      ]
+    },
+    {
+      "id": "2010",
+      "name": "LOUIS VUITTON  Leather Handbag",
+      "description": "Elegant leather handbag for women.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 3999.99,
+      "brand": "Louis Vuitton",
+      "category_id": 2,
+      "subcategory_id": 22,
+      "image_url": "https://us.louisvuitton.com/content/dam/lv/online/high-end/women/handbags/W_Fa_GO14_LP_V2.html/jcr:content/assets/savoir-faire/02_LV_GO14_1365_LVCOM_2000x2000_DI2.jpg",
+      "colors": [
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Brown",
+          "code": "#8b4513"
+        },
+        {
+          "name": "Beige",
+          "code": "#f5f5dc"
+        }
+      ]
+    },
+    {
+      "id": "2011",
+      "name": "Dior Tote Bag",
+      "description": "Elegant leather handbag for women.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 3949.99,
+      "brand": "Dior",
+      "category_id": 2,
+      "subcategory_id": 22,
+      "image_url": "https://www.dior.com/couture/var/dior/storage/images/pushs-editos/folder-summer-24-femme/folder-w2-digital/m1296zompm76e/42569853-2-eng-GB/m1296zompm76e_1440_1200.jpg?imwidth=3000",
+      "colors": [
+        {
+          "name": "White",
+          "code": "#ffffff"
+        }
+      ]
+    },
+    {
+      "id": "2012",
+      "name": "Dior Tote Bags & Beach Bags for Women",
+      "description": "Elegant leather handbag for women.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 3500,
+      "brand": "Dior",
+      "category_id": 2,
+      "subcategory_id": 22,
+      "image_url": "https://www.fluxurymagazine.com/wp-content/uploads/2023/09/01-1-1024x683.jpg",
+      "colors": [
+        {
+          "name": "White",
+          "code": "#ffffff"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "Yellow",
+          "code": "#ffffba"
+        }
+      ]
+    },
+    {
+      "id": "2020",
+      "name": "Elegant Bridal Wedding Dress Shoes",
+      "description": "Stylish high heel shoes for women.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 89.99,
+      "category_id": 2,
+      "subcategory_id": 23,
+      "image_url": "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/n/12/e2204931-1097-479f-8419-e39fec9a0285.jpg",
+      "brand": "H&M",
+      "discount": 10,
+      "sizes": [
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "code": "#ffffff"
+        },
+        {
+          "name": "Ivory",
+          "code": "#fffff0"
+        }
+      ]
+    },
+    {
+      "id": "2041",
+      "name": "Coca Cola",
+      "description": "Classic soft drink..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 1.99,
+      "brand": "Coca Cola",
+      "category_id": 12,
+      "subcategory_id": 101,
+      "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Coca_Cola_Marketing_Strategy_2022.jpg",
+      "discount": 30
+    },
+    {
+      "id": "2042",
+      "name": "Orange Juice",
+      "description": "Freshly squeezed orange juice..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 3.49,
+      "brand": "Tropicana",
+      "category_id": 12,
+      "subcategory_id": 101,
+      "image_url": "https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/a7d00a84-5400-4ebf-a259-08bb13f34a2f/v2-8hxnp-engqb.jpg"
+    },
+    {
+      "id": "2043",
+      "name": "Potato Chips",
+      "description": "Crispy salted potato chips..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 2.49,
+      "brand": "Lays",
+      "category_id": 12,
+      "subcategory_id": 102,
+      "image_url": "https://www.marketing91.com/wp-content/uploads/2019/04/Marketing-Strategy-of-Lays-4.jpg"
+    },
+    {
+      "id": "2044",
+      "name": "Chocolate Cookies",
+      "description": "Delicious chocolate chip cookies..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 4.99,
+      "brand": "Chips Ahoy!",
+      "category_id": 12,
+      "subcategory_id": 102,
+      "image_url": "https://www.eatthis.com/wp-content/uploads/sites/4/2024/03/chips-ahoy-new-cookie-recipe.jpg?quality=82&strip=1"
+    },
+    {
+      "id": "3001",
+      "name": "H&M Baggy Jeans",
+      "description": "Elegant plaid suit for men..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 199.99,
+      "brand": "H&M",
+      "category_id": 3,
+      "subcategory_id": 24,
+      "image_url": "https://www2.hm.com/content/dam/global_campaigns/season_00/men/ms30tnd-denim/MS30TND-Denim-roundup-1x1.jpg",
+      "discount": 15,
+      "sizes": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Blue",
+          "code": "#003366"
+        },
+        {
+          "name": "Black",
+          "code": "#000000"
+        }
+      ]
+    },
+    {
+      "id": "3002",
+      "name": "Nike Killshot OG Black White DC1982-001",
+      "description": "Stylish sneaker for men..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 129.99,
+      "brand": "Nike",
+      "category_id": 3,
+      "subcategory_id": 25,
+      "image_url": "https://static.nike.com/a/images/f_auto/dpr_3.0,cs_srgb/w_363,c_limit/435b9e4b-cd7a-4cf9-adae-bba8723bda34/check-out-the-best-black-sneaker-styles-by-nike.jpg",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "code": "#000000"
+        },
+        {
+          "name": "White",
+          "code": "#ffffff"
+        }
+      ]
+    },
+    {
+      "id": "3501",
+      "name": "Hydrating Natural Face Serum | Rocky Mountain Soap Company",
+      "description": "A deeply hydrating serum enriched with vitamins and antioxidants for radiant skin..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ",
+      "price": 29.99,
+      "brand": "Rocky",
+      "image_url": "https://www.rockymountainsoap.com/cdn/shop/products/Review-Serum-Web_12c0485e-96b2-4f51-96b0-a1edfbe549a5_1200x.jpg?v=1698447125",
+      "category_id": 8,
+      "subcategory_id": 61
+    },
+    {
+      "id": "3502",
+      "name": "Equate Fragrance Free Daily Moisturizing Lotion, 33 fl. oz.",
+      "description": "Moisturizer with SPF 30 for everyday sun protection and hydration.",
+      "price": 19.99,
+      "image_url": "https://i5.walmartimages.com/asr/4cc48632-c44e-49e0-978f-b9ed4ad3f218.1607fe738708fd9aee2a9e2cdb75f2cb.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "brand": "Rocky",
+      "category_id": 8,
+      "subcategory_id": 61
+    },
+    {
+      "id": "3503",
+      "name": "Dior Addict Shine Lacquer Lipstick 16gr Lip Glow Lip",
+      "description": "Long-lasting matte lipstick in vibrant ruby red shade.",
+      "price": 14.99,
+      "image_url": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/12/24/4500d0cb-074a-4c83-8c81-a2903d239494.jpg",
+      "brand": "Dior",
+      "category_id": 8,
+      "subcategory_id": 62,
+      "colors": [
+        {
+          "name": "Red",
+          "code": "#ac0c06"
+        },
+        {
+          "name": "Rose Gold",
+          "code": "#f4cccc"
+        },
+        {
+          "name": "Orange",
+          "code": "#bc4704"
+        }
+      ]
+    },
+    {
+      "id": "3504",
+      "name": "3CE New Take Eyeshadow Palette 3 Types",
+      "description": "A palette of highly pigmented eyeshadows in versatile shades for any occasion.",
+      "price": 32.99,
+      "brand": "3CE",
+      "image_url": "https://beautykoreadubai.com/cdn/shop/products/210b23861fb771e7e33bad617a5ee71a_1024x1024.jpg?v=1660124813",
+      "category_id": 8,
+      "subcategory_id": 62,
+      "colors": [
+        {
+          "name": "Orange",
+          "code": "#bc4704"
+        },
+        {
+          "name": "Brown",
+          "code": "#8b4513"
+        }
+      ]
+    },
+    {
+      "id": "3505",
+      "name": "Dior Forever: Meet The New and Improved Foundation By Dior",
+      "description": "Liquid foundation with medium coverage for a flawless complexion.",
+      "price": 32.99,
+      "image_url": "https://cdn.tatlerasia.com/tatlerasia/i/2022/04/06172835-screenshot-2022-04-06-at-52831-pm_cover_870x1084.png",
+      "brand": "Dior",
+      "category_id": 8,
+      "subcategory_id": 62,
+      "colors": [
+        {
+          "name": "Brown",
+          "code": "#8b4513"
+        },
+        {
+          "name": "Beige",
+          "code": "#f5f5dc"
+        },
+        {
+          "name": "Ivory",
+          "code": "#fffff0"
+        }
+      ]
+    },
+    {
+      "id": "4001",
+      "name": "Zara Boy T-Shirt",
+      "description": "Comfortable and colorful t-shirt for kids..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 19.99,
+      "brand": "Zara",
+      "category_id": 4,
+      "subcategory_id": 26,
+      "image_url": "https://static.zara.net/assets/public/2798/758f/ef234d1fa5ad/bc20930ea2b4/04805569406-400-p/04805569406-400-p.jpg?ts=1716216722803&w=824"
+    },
+    {
+      "id": "4002",
+      "name": "Pigeon 3-in-1 Baby Wash",
+      "description": "Gentle shampoo for babies..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 9.99,
+      "brand": "Pigeon",
+      "category_id": 4,
+      "subcategory_id": 27,
+      "image_url": "https://183930.selcdn.ru/media/thumbnails/85/58/85587ee7c5491cdffe1103bcbedf9a31.jpg",
+      "discount": 30
+    },
+    {
+      "id": "4003",
+      "name": "Pigeon Softouch PPSU Wide Neck Baby Feeding",
+      "description": "Durable and safe feeding bottle for babies..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 12.99,
+      "brand": "Pigeon",
+      "category_id": 4,
+      "subcategory_id": 28,
+      "image_url": "https://i.ebayimg.com/images/g/~jcAAOSwbNJjUPze/s-l1200.jpg"
+    },
+    {
+      "id": "5001",
+      "name": "Homfa Chenille Sofa and Couch",
+      "description": "Comfortable and stylish sofa for your living room..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 499.99,
+      "brand": "Sweety Home",
+      "category_id": 5,
+      "subcategory_id": 31,
+      "image_url": "https://i5.walmartimages.com/seo/Homfa-Chenille-Sofa-and-Couch-77-2-Modern-Couch-with-Armrests-Wood-Sofa-with-Pocket-and-Stainless-Steel-Legs-Grey_348ded6d-a91c-41fe-911a-e60ccf6ef6aa.63c30e5fa82183bf106c86b52fe1fb11.jpeg"
+    },
+    {
+      "id": "5002",
+      "name": "Kitchen Blender",
+      "description": "High-performance blender for all your kitchen needs..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 79.99,
+      "brand": "Sweety Home",
+      "category_id": 5,
+      "subcategory_id": 32,
+      "image_url": "https://www.allrecipes.com/thmb/nsnEC24bEWFWetPiDMZLkCNIbIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/alr-product-19-vitamix-5200-blender-rkilgore-1273-7893ed177d074c65abcbf739459a7ace.jpeg"
+    },
+    {
+      "id": "5003",
+      "name": "Wall Decor",
+      "description": "Beautiful wall decor to enhance your home..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 39.99,
+      "brand": "Sweety Home",
+      "category_id": 5,
+      "subcategory_id": 33,
+      "image_url": "https://rukminim2.flixcart.com/image/850/1000/ky1vl3k0/wall-decoration/u/t/v/macrame-wall-hanging-shelf-wood-floating-1-onedeepwh012s-home-original-imagad6etqczrdst.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "6001",
+      "name": "The Code Girl From London Fictional Novel",
+      "description": "Engaging and thrilling fictional novel..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 14.99,
+      "brand": "Yangon Book Store",
+      "category_id": 6,
+      "subcategory_id": 41,
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91CdklZOKvL._AC_UL330_SR330,330_.jpg",
+      "discount": 10
+    },
+    {
+      "id": "6002",
+      "name": "The Autobiography of Benjamin Franklin",
+      "description": "Inspirational self-help book for personal growth..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 19.99,
+      "brand": "Yangon Book Store",
+      "category_id": 6,
+      "subcategory_id": 42,
+      "image_url": "https://rukminim2.flixcart.com/image/850/1000/kgqvlow0/book/3/6/0/the-autobiography-of-benjamin-franklin-original-imafwwuxtmzjggrd.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "6003",
+      "name": "The Story of a Book",
+      "description": "Fun and educational storybook for children..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 9.99,
+      "brand": "Yangon Book Store",
+      "category_id": 6,
+      "subcategory_id": 43,
+      "image_url": "https://images.booksense.com/images/851/903/9781665903851.jpg"
+    },
+    {
+      "id": "7001",
+      "name": "Nike Premier League 21/22 Flight Football White Life Style Sports",
+      "description": "High-quality football for sports enthusiasts..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 29.99,
+      "brand": "Nike",
+      "category_id": 7,
+      "subcategory_id": 51,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjta5xz1Wzlm7rLf-wSR31I0RNgcs4TY4rCSiwwD4UCzjzjrupvIFzBQwEzVK_41exOR2RoJnV7vhagsvpNmV4fpek5HnCBtwg5V2JUC-R4rv7cPel18TpYiJxgaGti2eT_YItVcmgERsXvH_Cp_g6hEiDsIHBvLmXcApfAl-WRVv2SQvX6bFmujknv/s1600/nike-22-23-premier-league-ball-3.jpg"
+    },
+    {
+      "id": "7002",
+      "name": "Yoga Mats, Natural & GOTS Organic Certified",
+      "description": "Durable and comfortable yoga mat..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 19.99,
+      "brand": "Vermont",
+      "category_id": 7,
+      "subcategory_id": 51,
+      "image_url": "https://www.brentwoodhome.com/cdn/shop/products/yogamat-colors_1400x.jpg?v=1619739417"
+    },
+    {
+      "id": "7003",
+      "name": "Vermont Tennis Racket & Ball Set",
+      "description": "High-performance tennis racket for all levels..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 79.99,
+      "brand": "Vermont",
+      "category_id": 7,
+      "subcategory_id": 53,
+      "image_url": "https://nwscdn.com/media/catalog/product/cache/all/thumbnail/800x/0dc2d03fe217f8c83829496872af24a0/r/a/racket-set_1.jpg",
+      "discount": 20
+    },
+    {
+      "id": "8001",
+      "name": "Trek Bicycle",
+      "description": "Durable and lightweight bicycle for all terrains..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 249.99,
+      "brand": "Trek",
+      "category_id": 7,
+      "subcategory_id": 52,
+      "image_url": "https://trek.scene7.com/is/image/TrekBicycleProducts/Marlin5_21_33136_B_Portrait?$responsive-pjpg$&wid=1920&hei=1440"
+    },
+    {
+      "id": "8002",
+      "name": "Electric Scooter",
+      "description": "Eco-friendly electric scooter for urban commuting..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 399.99,
+      "brand": "Trek",
+      "category_id": 7,
+      "subcategory_id": 52,
+      "image_url": "https://www.electricdrift.com.au/cdn/shop/products/xiaomi-riding-scooters-pre-order-xiaomi-mi-electric-scooter-essential-31605794341049_1300x.jpg?v=1642428541"
+    },
+    {
+      "id": "8003",
+      "name": "27Pcs Car Detailing Kit, Car Detailing Brush Set",
+      "description": "Complete kit for car maintenance and accessories..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 89.99,
+      "brand": "Sweety Home",
+      "category_id": 8,
+      "subcategory_id": 63,
+      "image_url": "https://m.media-amazon.com/images/I/71a7eb9ATKL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "9001",
+      "name": "Google Smart TV",
+      "description": "High-definition smart TV with streaming capabilities..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 799.99,
+      "brand": "Google",
+      "category_id": 1,
+      "subcategory_id": 14,
+      "image_url": "https://www.smarttech-tv.com/image/catalog/home_banner/HomePage01_GTV.jpg",
+      "discount": 10
+    },
+    {
+      "id": "9002",
+      "name": "Buy ZEBRONICS zeb- thump 28 W Bluetooth",
+      "description": "Portable Bluetooth speaker with excellent sound quality..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 59.99,
+      "brand": "Google",
+      "category_id": 1,
+      "subcategory_id": 15,
+      "image_url": "https://rukminim2.flixcart.com/image/850/1000/k5si2kw0/speaker/home-theatre/d/r/j/zebronics-wired-mic-bt-aux-fm-led-display-rgb-lights-and-remote-original-imafzedejzhtjhjx.jpeg?q=20&crop=false"
+    },
+    {
+      "id": "10001",
+      "name": "Plant Pots",
+      "description": "Beautiful plant pots for your garden..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
+      "price": 29.99,
+      "brand": "Sweety Home",
+      "category_id": 10,
+      "subcategory_id": 81,
+      "image_url": "https://stylegarage.com/cdn/shop/products/100130629_4_1570715206_1800x_a9e56d6c-3773-4256-b3ff-bcd944b00320_530x@2x.webp?v=1663364556"
+    },
+    {
+      "id": "10002",
+      "name": "Outdoor Charcoal Grill with Offset Smoker ",
+      "description": "High-performance outdoor grill for your backyard..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercit",
+      "price": 299.99,
+      "brand": "Sweety Home",
+      "category_id": 10,
+      "subcategory_id": 82,
+      "image_url": "https://m.media-amazon.com/images/I/71C-M--fp+L.jpg"
+    }
+  ],
+  "brands": [
+    {
+      "id": "b1",
+      "name": "Apple",
+      "description": "Leading innovator in consumer electronics, software, and online services.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+    },
+    {
+      "id": "b2",
+      "name": "Canon",
+      "description": "Global leader in imaging and optical products.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Canon_logo.svg"
+    },
+    {
+      "id": "b3",
+      "name": "Louis Vuitton",
+      "description": "Luxury fashion house and company.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Louis_Vuitton_logo_and_wordmark.svg"
+    },
+    {
+      "id": "b4",
+      "name": "H&M",
+      "description": "International clothing retail company.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg"
+    },
+    {
+      "id": "b5",
+      "name": "Nike",
+      "description": "Leading supplier of athletic shoes, apparel, and sports equipment.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg"
+    },
+    {
+      "id": "b6",
+      "name": "Rocky",
+      "description": "Popular skincare brand known for its effective products.",
+      "logo_url": "URL_TO_ROCKER_LOGO"
+    },
+    {
+      "id": "b7",
+      "name": "Dior",
+      "description": "Luxury goods company known for its fashion, fragrances, and accessories.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Dior_Logo.svg"
+    },
+    {
+      "id": "b8",
+      "name": "3CE",
+      "description": "Trendy makeup brand popular among young consumers.",
+      "logo_url": "URL_TO_3CE_LOGO"
+    },
+    {
+      "id": "b9",
+      "name": "Zara",
+      "description": "International fast fashion retailer.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zara_Logo.svg"
+    },
+    {
+      "id": "b10",
+      "name": "Pigeon",
+      "description": "Trusted brand for baby and mother care products.",
+      "logo_url": "URL_TO_PIGEON_LOGO"
+    },
+    {
+      "id": "b11",
+      "name": "Sweety Home",
+      "description": "Popular Myanmar brand for household products.",
+      "logo_url": "URL_TO_SWEETY_HOME_LOGO"
+    },
+    {
+      "id": "b12",
+      "name": "Yangon Book Store",
+      "description": "Well-known bookstore in Myanmar.",
+      "logo_url": "URL_TO_YANGON_BOOK_STORE_LOGO"
+    },
+    {
+      "id": "b13",
+      "name": "Trek",
+      "description": "Leading brand for bicycles and cycling products.",
+      "logo_url": "URL_TO_TREK_LOGO"
+    },
+    {
+      "id": "b14",
+      "name": "Vermont",
+      "description": "Brand known for its quality outdoor and adventure gear.",
+      "logo_url": "URL_TO_VERMONT_LOGO"
+    },
+    {
+      "id": "b15",
+      "name": "Google",
+      "description": "Global technology leader, also known for its TV and electronic products.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+    },
+    {
+      "id": "b16",
+      "name": "Coca Cola",
+      "description": "Leading global beverage company known for its iconic soft drinks.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coca-Cola_logo.svg"
+    },
+    {
+      "id": "b17",
+      "name": "Tropicana",
+      "description": "Well-known brand offering a variety of fruit juices and beverages.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tropicana_logo.svg"
+    },
+    {
+      "id": "b18",
+      "name": "Lays",
+      "description": "Famous brand of potato chips and other snack foods.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lay%27s_logo.svg"
+    },
+    {
+      "id": "b19",
+      "name": "Chips Ahoy!",
+      "description": "Popular brand of chocolate chip cookies and other baked goods.",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Chips_Ahoy%21_logo.svg"
+    }
+  ]
+}
