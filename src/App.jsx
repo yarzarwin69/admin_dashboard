@@ -6,45 +6,16 @@ import Nav from './components/nav';
 import Dashboard from './pages/Dashboard';
 import Settings from './pages/Settings';
 import Tables from './pages/Tables';
-import CategoryForm from './pages/categories/categoryform';
-import CategoryList from './pages/categories/categories';
-import CatDetails from './pages/categories/catDetails';
-import SeeMorePage from './pages/subcategories/subDetails';
-import SubcategoriesPage from './pages/subcategories/subcategories';
-import SubcategoryForm from './pages/subcategories/SubcategoryForm ';
-import AddSubcategoryForm from './pages/subcategories/addcategoryform';
+import Category from './pages/categories/Category';
 import Brands from './pages/brands/Brands';
+import Subcategory from './pages/subcategories/SubCategory';
 import Product from './pages/products/Products';
 import './style.css';
 
 
+
 const App = () => {
-  const [categories, setCategories] = useState([
-    { id: '1', name: 'Category 1', subcategories: [] },
-    { id: '2', name: 'Category 2', subcategories: [] },
-  ]);
-
-  const handleSubcategoryAdded = (categoryId, newSubcategory) => {
-    console.log('Subcategory added:', newSubcategory); // Debugging line
-
-    setCategories(prevCategories => 
-      prevCategories.map(category => 
-        category.id === categoryId
-          ? { ...category, subcategories: [...category.subcategories, newSubcategory] }
-          : category
-      )
-    );
-  };
-
-  const CategoryWithAddSubcategoryForm = () => {
-    const { categoryId } = useParams();
-    return (
-      <>
-        <CategoryList categories={categories} /> {/* Display list of categories */}
-        <AddSubcategoryForm categoryId={categoryId} onSubcategoryAdded={handleSubcategoryAdded} />
-      </>
-    );
-  };
+  
 
   return (
     <Router>
@@ -57,14 +28,8 @@ const App = () => {
               <Route path="/dashboard" element={<Dashboard />} />
               <Route path="/settings" element={<Settings />} />
               <Route path="/tables" element={<Tables />} />
-              <Route path="/categories" element={<CategoryList categories={categories} />} />
-              <Route path="/add-category" element={<CategoryForm />} />
-              <Route path="/edit-category/:id" element={<CategoryForm />} />
-              <Route path="/catDetails/:categoryId" element={<CatDetails />} />
-              <Route path="/subcategories" element={<SubcategoriesPage />} />
-              <Route path="/categories/:categoryId/subcategories" element={<SeeMorePage />} />
-              <Route path="/categories/:categoryId/add-subcategory" element={<CategoryWithAddSubcategoryForm />} />
-              <Route path="/categories/:categoryId/edit-subcategory/:subCategoryId" element={<SubcategoryForm />} />
+              <Route path="/categories/*" element={<Category />} />
+              <Route path="/subcategories/*" element={<Subcategory />} />
               {/* Redirect from root to dashboard */}
               <Route path="/brands/*" element={<Brands />} /> 
               <Route path="/products/*" element={<Product />} />
