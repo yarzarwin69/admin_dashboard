@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
-const AddSubcategoryForm = ({ categoryId, onSubcategoryAdded }) => {
+const AddSubcategoryForm = ({onSubcategoryAdded }) => {
   const [newSubcategory, setNewSubcategory] = useState({
-    id: '', // This will be generated when the form is submitted
+    id: '', 
     name: '',
     description: '',
     image_url: ''
@@ -18,6 +18,7 @@ const AddSubcategoryForm = ({ categoryId, onSubcategoryAdded }) => {
   };
 
   const handleSubmit = (e) => {
+    console.log(e)
     e.preventDefault();
     if (!newSubcategory.name || !newSubcategory.description || !newSubcategory.image_url) {
       setError('All fields are required.');
@@ -34,7 +35,7 @@ const AddSubcategoryForm = ({ categoryId, onSubcategoryAdded }) => {
     console.log('Submitting subcategory:', newSubcategoryWithId);
 
     // Call the parent component's handler to add the subcategory
-    onSubcategoryAdded(categoryId, newSubcategoryWithId);
+    onSubcategoryAdded(newSubcategoryWithId);
     
     // Reset the form
     setNewSubcategory({

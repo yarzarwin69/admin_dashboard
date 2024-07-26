@@ -10,8 +10,10 @@ const Sidebar = () => (
       <NavLink to="/dashboard" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Dashboard</NavLink>
       <NavLink to="/categories" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Categories</NavLink>
       <NavLink to="/subcategories" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Subcategories</NavLink>
-      <NavLink to="/settings" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Settings</NavLink>
-      <NavLink to="/tables" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Tables</NavLink>
+      <NavLink to="/brands" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Brands</NavLink>
+      <NavLink to="/products" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Products</NavLink>
+      {/* <NavLink to="/settings" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Settings</NavLink>
+      <NavLink to="/tables" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-gray-700 hover:text-white" activeClassName="bg-gray-700">Tables</NavLink> */}
     </nav>
   </div>
 );

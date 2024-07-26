@@ -25,6 +25,7 @@ const SeeMorePage = () => {
   }, [categoryId]);
 
   const handleSubcategoryAdded = (newSubcategory) => {
+    console.log(newSubcategory);
     setCategory(prevCategory => ({
       ...prevCategory,
       subcategories: [...prevCategory.subcategories, newSubcategory]

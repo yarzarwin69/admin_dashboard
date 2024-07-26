@@ -13,8 +13,10 @@ import SeeMorePage from './pages/subcategories/subDetails';
 import SubcategoriesPage from './pages/subcategories/subcategories';
 import SubcategoryForm from './pages/subcategories/SubcategoryForm ';
 import AddSubcategoryForm from './pages/subcategories/addcategoryform';
-
+import Brands from './pages/brands/Brands';
+import Product from './pages/products/Products';
 import './style.css';
+
 
 const App = () => {
   const [categories, setCategories] = useState([
@@ -64,6 +66,8 @@ const App = () => {
               <Route path="/categories/:categoryId/add-subcategory" element={<CategoryWithAddSubcategoryForm />} />
               <Route path="/categories/:categoryId/edit-subcategory/:subCategoryId" element={<SubcategoryForm />} />
               {/* Redirect from root to dashboard */}
+              <Route path="/brands/*" element={<Brands />} /> 
+              <Route path="/products/*" element={<Product />} />
               <Route path="/" element={<Dashboard />} />
             </Routes>
           </main>

@@ -294,7 +294,6 @@
   ],
   "products": [
     {
-      "id": "1001",
       "name": "iPhone 15 Pro Max",
       "description": "Latest Apple iPhone with advanced features.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
       "price": 1000.99,
@@ -302,6 +301,7 @@
       "category_id": 1,
       "subcategory_id": 11,
       "image_url": "https://www.gizchina.com/wp-content/uploads/images/2023/01/iphone-15-pro-max-2.jpg",
+      "sizes": [],
       "colors": [
         {
           "name": "Purple",
@@ -310,12 +310,10 @@
         {
           "name": "Black",
           "code": "#000000"
-        },
-        {
-          "name": "Silver",
-          "code": "#c0c0c0"
         }
-      ]
+      ],
+      "discount": null,
+      "id": "1001"
     },
     {
       "id": "1002",
@@ -878,34 +876,14 @@
       "category_id": 1,
       "subcategory_id": 15,
       "image_url": "https://rukminim2.flixcart.com/image/850/1000/k5si2kw0/speaker/home-theatre/d/r/j/zebronics-wired-mic-bt-aux-fm-led-display-rgb-lights-and-remote-original-imafzedejzhtjhjx.jpeg?q=20&crop=false"
-    },
-    {
-      "id": "10001",
-      "name": "Plant Pots",
-      "description": "Beautiful plant pots for your garden..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea",
-      "price": 29.99,
-      "brand": "Sweety Home",
-      "category_id": 10,
-      "subcategory_id": 81,
-      "image_url": "https://stylegarage.com/cdn/shop/products/100130629_4_1570715206_1800x_a9e56d6c-3773-4256-b3ff-bcd944b00320_530x@2x.webp?v=1663364556"
-    },
-    {
-      "id": "10002",
-      "name": "Outdoor Charcoal Grill with Offset Smoker ",
-      "description": "High-performance outdoor grill for your backyard..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercit",
-      "price": 299.99,
-      "brand": "Sweety Home",
-      "category_id": 10,
-      "subcategory_id": 82,
-      "image_url": "https://m.media-amazon.com/images/I/71C-M--fp+L.jpg"
     }
   ],
   "brands": [
     {
-      "id": "b1",
-      "name": "Apple",
+      "name": "Apples",
       "description": "Leading innovator in consumer electronics, software, and online services.",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "id": "b1"
     },
     {
       "id": "b2",
@@ -930,12 +908,6 @@
       "name": "Nike",
       "description": "Leading supplier of athletic shoes, apparel, and sports equipment.",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg"
-    },
-    {
-      "id": "b6",
-      "name": "Rocky",
-      "description": "Popular skincare brand known for its effective products.",
-      "logo_url": "URL_TO_ROCKER_LOGO"
     },
     {
       "id": "b7",
